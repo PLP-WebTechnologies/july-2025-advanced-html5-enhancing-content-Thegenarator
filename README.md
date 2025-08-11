@@ -1,44 +1,128 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ew7e64j9)
-# 📘 Assignment: Enhancing HTML5 Content & Mastering Forms
+# Evolving Technologies – Accessible & SEO-Friendly HTML5 Web Page
 
-## Overview
+## 📄 Description
 
-This assignment focuses on elevating your HTML5 skills by working with advanced content elements and mastering the creation, structure, and validation of web forms. You will practice using lists, tables, and media to enrich page content, and then dive deep into building dynamic, user-friendly forms powered by native HTML5 features.
+This project demonstrates a semantically structured, accessible, and SEO-friendly HTML5 web page titled **"Evolving Technologies"**. The page explores technological advancements, trends, and their impact on society while also showcasing advanced HTML5 features, including:
 
-## Objectives
+- Organized content using lists and tables
+- Embedded multimedia content
+- A fully featured HTML5 form using native validation
+- Semantic HTML structure for accessibility and clarity
 
-You are expected to demonstrate the ability to:
+---
 
-* Use lists and tables effectively to organize content for clarity and accessibility.
-* Embed media content such as images, audio, or video using semantic HTML5 elements.
-* Build structured HTML5 forms that are both usable and visually intuitive.
-* Apply various HTML5 form attributes to improve user interaction.
-* Use built-in validation techniques to minimize incorrect data input without relying on JavaScript.
+## 🎯 Objectives
 
-## Instructions
+This project fulfills the following learning and technical objectives:
 
-Design a simple multi-section web page that showcases the use of lists, tables, and media, followed by a complete HTML5 form. The page should reflect thoughtful structure, usability, and clarity.
+- ✅ Use of semantic HTML5 elements to ensure content clarity and accessibility
+- ✅ Creation of structured web content using:
+  - Unordered and ordered **lists**
+  - Accessible **tables** with headers and captions
+  - Embedded **media** (`<img>`, `<video>`)
+- ✅ Construction of a well-organized HTML5 **form** featuring:
+  - Diverse input types (text, email, number, password, radio, checkbox, select)
+  - Field grouping using `<fieldset>` and `<legend>`
+  - Built-in validation attributes like `required`, `pattern`, `minlength`, etc.
+  - Read-only and placeholder fields
+  - Accessible labels and input associations
+- ✅ No JavaScript used — all validation and interactions rely on **native HTML5 capabilities**
 
-Your form should include various input types, make use of labels and fieldsets for accessibility, and apply HTML5 validation rules through attributes like `required`, `type`, `minlength`, `pattern`, and others.
+---
 
-Avoid using JavaScript for validation—rely solely on native HTML5 capabilities.
+## 📁 File Structure
 
-## Deliverables
+Htmi/Kibiwott Kamoo_Week-2-Assignment
+Index.html
+README.md
 
-Submit a single HTML file named `enhanced-form.html`. It should include:
 
-* Well-structured content using lists, tables, and media.
-* A complete HTML5 form including a variety of input fields.
-* Correct use of form attributes such as `placeholder`, `required`, `autocomplete`, and `readonly`.
-* HTML5 validation features implemented correctly across all relevant fields.
-* A clear, accessible layout using semantic tags.
+---
 
-## Tips
+## 🌐 How to Use
 
-* Proper and meaningful use of lists, tables, and media.
-* Clarity and accessibility of form structure.
-* Correct use of form elements and attributes.
-* Effective application of native HTML5 validation.
-* Clean, well-indented, and maintainable HTML code.
+1. **Clone or Download** this repository.
+2. **Ensure** the images and video files are present in the correct subfolders (`images/` and `media/`).
+3. Open `index.html` in your browser to view the page.
+4. Navigate through sections via the skip link or navigation bar.
+5. Fill out the form and test validation (try submitting with and without completing required fields).
+
+---
+
+## 📌 Key Features Breakdown
+
+### 📑 Semantic HTML
+- `<header>`, `<main>`, `<section>`, `<footer>`, `<nav>`, `<figure>`, `<address>`, `<fieldset>`, etc.
+- Accessible labels using `for` attributes
+- ARIA labels for navigation and sections
+- Tabindex and skip links for keyboard navigation
+
+### 📋 Lists
+Used to organize:
+- Objectives
+- Trends
+- Impact Areas
+- Resources
+
+### 📊 Tables
+Includes a comparison table of key emerging technologies:
+- AI
+- Blockchain
+- Quantum Computing
+
+
+
+### 🧾 HTML5 Form
+- Input types: `text`, `email`, `tel`, `password`, `textarea`, `select`, `radio`, `checkbox`
+- Fieldsets and legends for grouping
+- Validation via:
+  - `required`
+  - `pattern` (e.g., phone number, username)
+  - `minlength`
+  - `readonly` field (`Country: Kenya`)
+  - `autocomplete` attributes
+- Reset and Submit buttons
+
+---
+
+## ✅ Validation & Accessibility
+
+This HTML page is:
+- **W3C valid** (can be checked via [W3C Validator](https://validator.w3.org/))
+- **Keyboard accessible**
+- **ARIA-aware**
+- Compliant with **SEO and accessibility best practices**
+
+---
+
+## 🚫 No JavaScript Policy
+
+Per project requirements:
+- ❌ No JavaScript is used for form validation or interaction
+- ✅ All validation is handled via HTML5 attributes
+
+---
+
+## 📥 Submission Instructions
+
+- Submit the file named: `index.html`
+- Ensure that supporting media (`images/`, `media/`) are included
+- Ensure form works as intended with validation and layout intact
+
+---
+
+## 📧 Contact
+
+Author: **Kibiwott Kamoo**  
+Email: [kibiwottkamoo@gmail.com](mailto:kibiwottkamoo@gmail.com)  
+Alternate: [info@jiranitech.com](mailto:info@jiranitech.com)  
+Location: Jirani Plaza, 2nd Floor, South Wing
+
+---
+
+## 📝 License
+
+This project is for educational and non-commercial use only.
+
 
 
