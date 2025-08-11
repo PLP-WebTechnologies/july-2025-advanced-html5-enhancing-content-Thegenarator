@@ -123,6 +123,3 @@ Location: Jirani Plaza, 2nd Floor, South Wing
 ## 📝 License
 
 This project is for educational and non-commercial use only.
-
-
-
